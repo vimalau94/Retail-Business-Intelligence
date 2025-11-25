@@ -6,6 +6,7 @@ The goal is to clean, analyze, and visualize retail sales data to help businesse
 📁 **Project Structure**
 
 Retail-Business-Intelligence
+
 │
 ├── 0.Retail_Business_Intelligence_End_to_End.ipynb   # Main Project Notebook
 
