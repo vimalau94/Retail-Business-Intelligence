@@ -62,39 +62,62 @@ To build a complete Retail BI Solution covering:
 📌 Monthly Sales Trend:Line chart showing monthly performance.
 
 📌 Customer Analytics:
+
 Top customers
+
 Repeat customers
+
 Customer sales contribution
 
 📌 Product Performance:
+
 Best-selling products
+
 Least selling products
+
 Category-wise contribution
 
 📌 Power BI Dashboard:
+
 Created interactive visualizations using:
 Bar charts
+
 KPIs
+
 Line charts
+
 Donut charts
+
 Category insights
 
 🧠 **Key Insights**
+
 1️⃣ Top customers contribute major revenue
+
 2️⃣ Certain categories consistently outperform others
+
 3️⃣ Sales spikes occur during specific months
+
 4️⃣ Low-performing products require stock or marketing review
 
 ▶️ **How to Run This Project**
+
 1)Download the datasets
+
 2)Open the notebook in Google Colab
+
 3)Upload the CSV files
+
 4)Run all cells
+
 5)Use the Excel output file for Power BI
 
 📬 **Contact**
 
 👩‍💻 Vimala Upputuru
+
 GitHub: https://github.com/vimalau94
+
 LinkedIn: https://www.linkedin.com/in/vimala-upputuru-5b66aa336
+
 Email: vimalau9413@gmail.com
