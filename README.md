@@ -4,15 +4,23 @@ This is an end-to-end Retail Business Intelligence project built using Python, E
 The goal is to clean, analyze, and visualize retail sales data to help businesses make data-driven decisions.
 
 📁 **Project Structure**
+
 Retail-Business-Intelligence
 │
 ├── 0.Retail_Business_Intelligence_End_to_End.ipynb   # Main Project Notebook
+
 ├── 1.customers.csv                                   # Raw customers data
+
 ├── 2.products.csv                                    # Raw product data
+
 ├── 3.orders.csv                                      # Raw orders data
+
 ├── 4.order_items.csv                                 # Raw order items data
+
 ├── 5.full_cleaned_data.csv                           # Final cleaned dataset
+
 ├── 6.Retail_Data_Cleaned.xlsx                        # Excel output for Power BI
+
 └── README.md                                         # Project documentation
 
 🎯 **Project Objective**
