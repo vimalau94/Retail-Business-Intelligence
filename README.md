@@ -2,6 +2,7 @@
 
 This is an end-to-end Retail Business Intelligence project built using Python, Excel, and Power BI.
 The goal is to clean, analyze, and visualize retail sales data to help businesses make data-driven decisions.
+
 📁 **Project Structure**
 Retail-Business-Intelligence
 │
@@ -13,6 +14,7 @@ Retail-Business-Intelligence
 ├── 5.full_cleaned_data.csv                           # Final cleaned dataset
 ├── 6.Retail_Data_Cleaned.xlsx                        # Excel output for Power BI
 └── README.md                                         # Project documentation
+
 🎯 **Project Objective**
 
 To build a complete Retail BI Solution covering:
@@ -23,6 +25,7 @@ To build a complete Retail BI Solution covering:
 ✔ Customer Insights
 ✔ Product Performance
 ✔ Power BI Dashboards
+
 🛠 **Tools & Technologies Used**
 
 1.Python (Pandas, NumPy, Matplotlib)
@@ -34,6 +37,7 @@ To build a complete Retail BI Solution covering:
 4.Google Colab
 
 5.GitHub
+
 🧹 **Data Cleaning Steps**
 
 [1].Performed in the notebook:
@@ -51,6 +55,7 @@ To build a complete Retail BI Solution covering:
 [7].Calculated revenue metrics
 
 [8].Exported final cleaned dataset
+
 📈 **Analysis Performed**
 📌 Total Revenue Analysis
 
@@ -89,12 +94,14 @@ Line charts
 Donut charts
 
 Category insights
+
 🧠 **Key Insights**
 
 1️⃣ Top customers contribute major revenue
 2️⃣ Certain categories consistently outperform others
 3️⃣ Sales spikes occur during specific months
 4️⃣ Low-performing products require stock or marketing review
+
 ▶️ **How to Run This Project**
 
 1)Download the datasets
@@ -106,6 +113,7 @@ Category insights
 4)Run all cells
 
 5)Use the Excel output file for Power BI
+
 📬 **Contact**
 
 👩‍💻 Vimala Upputuru
